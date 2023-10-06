@@ -1,0 +1,3 @@
+Bcsf20m008,Barkat Market,,20,True,3,4,03027726309,Car,VCH 700,2010
+Bcsf20m070,Town Ship,,21,True,7,5,03095721065,Bike,GHQ,asdf 301
+bcsf20m065,Kot Muzaffar,,22,True,7,4,03000049815,Rikshaw,Qwert 33,2019
